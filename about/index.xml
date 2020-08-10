@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on USD MS-ADS</title>
+    <link>http://usd-msads.github.io/about/</link>
+    <description>Recent content in Abouts on USD MS-ADS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://usd-msads.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Awards</title>
+      <link>http://usd-msads.github.io/about/awards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://usd-msads.github.io/about/awards/</guid>
+      <description>The University of San Diego, established in 1949, is a highly rated private, Catholic university that regularly earns accolades and honors from academic websites and publications. USD citations include:
+The Princeton Review
+#3 Most Beautiful Campus#12 Best-Run Colleges#23 Top 50 Green CollegesU.S. News &amp;amp; World Report
+#91 National Universities#66 Best Value Schools#90 Best Business Programs#13 Best Undergraduate Engineering Programs#58 Best Colleges for Veterans#25 International Business#19 Best Online Graduate Criminal Justice ProgramsBusiness Insider</description>
+    </item>
+    
+    <item>
+      <title>Curriculum</title>
+      <link>http://usd-msads.github.io/about/curriculum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://usd-msads.github.io/about/curriculum/</guid>
+      <description>  Semester Course Number Course Title Topics Covered     1 ADS 500A Prerequisite - Probability and Statistics for Data Science Statistical ConceptsProbability Theory, Random and Multivariate VariablesData and Sampling DistributionsDescriptive StatisticsHypothesis Testing   1 ADS 500B Prerequisite - Data Science Programming Data Structures and AlgorithmsIntroduction to Python and R ProgrammingAdvanced Python and R Data Analytics Programming   2 ADS 501 Foundations of Data Science and Data Ethics Data Science Methods Introductory and VisualizationAnalytics Problem SolvingBig Data ConceptsData Ethics   2 ADS 502 Applied Data Mining Data Types and PreprocessingClassification Concepts and TechniquesCluster Analysis Concepts and AlgorithmsAssociation Analysis Concepts and AlgorithmsAnomaly Detection   3 ADS 503 Applied Predictive Modeling Practical Data Preprocessing with Linear, Nonlinear,Tree-based and Rule-Based Models for Regression andClassification Problems in Python and R   3 ADS 504 Machine Learning and Deep Learning for Data Science Supervised, Unsupervised, Reinforcement LearningNeural NetworksFundamentals of Deep Learning   4 ADS 505 Applications of Data Science with Case Studies Applications of Data Science in Marketing and FinanceSWOT AnalysisResearch Course TopicPost-processing Modeling   4 ADS 506 Applied Time Series Analysis Time Series Regression and Exploratory Data AnalysisSeasonality/Stationarity, MARS, ARMA, ARIMA, VAR Models   5 ADS 507 Practical Data Engineering SQLSparkRelational AlgebraReading and Writing Tables Database Modeling   5 ADS 508 Data Science with Cloud Computing Cloud Computing FoundationsAmazon Web Services (AWS)Distributed ComputingWorking with Cloud Services and Platforms   6 ADS 509 Applied Text Mining Parsing and Preprocessing TextTopic Modeling and ClusteringText ClassificationSentiment Analysis   6 ADS 599A Capstone Project I Data AcquisitionData CleaningPreprocessingFeature Engineering   6 ADS 599B Capstone Project II Data ModelingModel Deployment and Interpretation Report    </description>
+    </item>
+    
+    <item>
+      <title>Frequently Asked Questions (FAQs)</title>
+      <link>http://usd-msads.github.io/about/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://usd-msads.github.io/about/faq/</guid>
+      <description>Is a GRE or GMAT required for admission?
+Candidates who have a GPA above 2.5 are not required to take a GRE or GMAT; however, a standardized test such as GRE or GMAT will be required for applicants with a GPA between 2.0 and 2.5.
+Do I need an undergraduate degree in science or engineering?
+It is expected that most applicants will have an undergraduate degree in science, mathematics, engineering, information technology, computer science or a STEM field.</description>
+    </item>
+    
+  </channel>
+</rss>

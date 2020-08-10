@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>USD MS-ADS</title>
+    <link>http://usd-msads.github.io/</link>
+    <description>Recent content on USD MS-ADS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Apr 2018 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="http://usd-msads.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog 3</title>
+      <link>http://usd-msads.github.io/blog/2018-04-17_blog3/</link>
+      <pubDate>Wed, 25 Apr 2018 10:58:08 -0400</pubDate>
+      
+      <guid>http://usd-msads.github.io/blog/2018-04-17_blog3/</guid>
+      <description>asdf</description>
+    </item>
+    
+    <item>
+      <title>Blog 2</title>
+      <link>http://usd-msads.github.io/blog/2018-02-02_blog2/</link>
+      <pubDate>Fri, 02 Feb 2018 10:58:08 -0400</pubDate>
+      
+      <guid>http://usd-msads.github.io/blog/2018-02-02_blog2/</guid>
+      <description>asdf</description>
+    </item>
+    
+    <item>
+      <title>Blog 1</title>
+      <link>http://usd-msads.github.io/blog/2018-01-24_blog1/</link>
+      <pubDate>Wed, 24 Jan 2018 10:58:08 -0400</pubDate>
+      
+      <guid>http://usd-msads.github.io/blog/2018-01-24_blog1/</guid>
+      <description>Citizen Labs works together with our entire community to promote transparency, better understand problems, and support informed decisions.And to be purposeful in choosing the opportunities that may cross our path. We will welcome:- Partnerships with educational organizations- Open Data Policy Engagement- Partnerships to lead citizen engagement &amp; design thinking## How We Win**Engage Our Community:**- Build partnerships with other organizations.- Actively engage a community partner in at least 50% of 2018 Citizen Lab projects.</description>
+    </item>
+    
+    <item>
+      <title>About USD MS-ADS</title>
+      <link>http://usd-msads.github.io/about_msads/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://usd-msads.github.io/about_msads/</guid>
+      <description>Why is being so specific important?Providing a clear definition of openness ensures that when you get two open datasets from two different sources, you will be able to combine them together, and it ensures that we avoid our own ‘tower of babel’: lots of datasets but little or no ability to combine them together into the larger systems where the real value lies. --Designed for busy working professionals who want to earn their master’s degree while balancing the demands of work and family life, the University of San Diego offers convenient, yet rigorous online learning programs that enable you to achieve your educational goals on your own schedule.</description>
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>http://usd-msads.github.io/about/awards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://usd-msads.github.io/about/awards/</guid>
+      <description>The University of San Diego, established in 1949, is a highly rated private, Catholic university that regularly earns accolades and honors from academic websites and publications. USD citations include:
+The Princeton Review
+#3 Most Beautiful Campus#12 Best-Run Colleges#23 Top 50 Green CollegesU.S. News &amp;amp; World Report
+#91 National Universities#66 Best Value Schools#90 Best Business Programs#13 Best Undergraduate Engineering Programs#58 Best Colleges for Veterans#25 International Business#19 Best Online Graduate Criminal Justice ProgramsBusiness Insider</description>
+    </item>
+    
+    <item>
+      <title>Curriculum</title>
+      <link>http://usd-msads.github.io/about/curriculum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://usd-msads.github.io/about/curriculum/</guid>
+      <description>  Semester Course Number Course Title Topics Covered     1 ADS 500A Prerequisite - Probability and Statistics for Data Science Statistical ConceptsProbability Theory, Random and Multivariate VariablesData and Sampling DistributionsDescriptive StatisticsHypothesis Testing   1 ADS 500B Prerequisite - Data Science Programming Data Structures and AlgorithmsIntroduction to Python and R ProgrammingAdvanced Python and R Data Analytics Programming   2 ADS 501 Foundations of Data Science and Data Ethics Data Science Methods Introductory and VisualizationAnalytics Problem SolvingBig Data ConceptsData Ethics   2 ADS 502 Applied Data Mining Data Types and PreprocessingClassification Concepts and TechniquesCluster Analysis Concepts and AlgorithmsAssociation Analysis Concepts and AlgorithmsAnomaly Detection   3 ADS 503 Applied Predictive Modeling Practical Data Preprocessing with Linear, Nonlinear,Tree-based and Rule-Based Models for Regression andClassification Problems in Python and R   3 ADS 504 Machine Learning and Deep Learning for Data Science Supervised, Unsupervised, Reinforcement LearningNeural NetworksFundamentals of Deep Learning   4 ADS 505 Applications of Data Science with Case Studies Applications of Data Science in Marketing and FinanceSWOT AnalysisResearch Course TopicPost-processing Modeling   4 ADS 506 Applied Time Series Analysis Time Series Regression and Exploratory Data AnalysisSeasonality/Stationarity, MARS, ARMA, ARIMA, VAR Models   5 ADS 507 Practical Data Engineering SQLSparkRelational AlgebraReading and Writing Tables Database Modeling   5 ADS 508 Data Science with Cloud Computing Cloud Computing FoundationsAmazon Web Services (AWS)Distributed ComputingWorking with Cloud Services and Platforms   6 ADS 509 Applied Text Mining Parsing and Preprocessing TextTopic Modeling and ClusteringText ClassificationSentiment Analysis   6 ADS 599A Capstone Project I Data AcquisitionData CleaningPreprocessingFeature Engineering   6 ADS 599B Capstone Project II Data ModelingModel Deployment and Interpretation Report    </description>
+    </item>
+    
+    <item>
+      <title>Data Science Job Interview Questions</title>
+      <link>http://usd-msads.github.io/interviews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://usd-msads.github.io/interviews/</guid>
+      <description>asdf</description>
+    </item>
+    
+    <item>
+      <title>Frequently Asked Questions (FAQs)</title>
+      <link>http://usd-msads.github.io/about/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://usd-msads.github.io/about/faq/</guid>
+      <description>Is a GRE or GMAT required for admission?
+Candidates who have a GPA above 2.5 are not required to take a GRE or GMAT; however, a standardized test such as GRE or GMAT will be required for applicants with a GPA between 2.0 and 2.5.
+Do I need an undergraduate degree in science or engineering?
+It is expected that most applicants will have an undergraduate degree in science, mathematics, engineering, information technology, computer science or a STEM field.</description>
+    </item>
+    
+    <item>
+      <title>Partnership</title>
+      <link>http://usd-msads.github.io/partnership/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://usd-msads.github.io/partnership/</guid>
+      <description>asdfasdf</description>
+    </item>
+    
+    <item>
+      <title>Past Projects</title>
+      <link>http://usd-msads.github.io/past_projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://usd-msads.github.io/past_projects/</guid>
+      <description>asdfasdf</description>
+    </item>
+    
+    <item>
+      <title>Proposal</title>
+      <link>http://usd-msads.github.io/proposal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://usd-msads.github.io/proposal/</guid>
+      <description>asdfasdf</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>http://usd-msads.github.io/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://usd-msads.github.io/resources/</guid>
+      <description>Projects Under Active Development## Projects that are Live## Projects Proposed or in Discovery Phase--Python | R | SQL | Data Visualization | SAS | Microsoft Excel | Version Control (Github) | Datasets | Machine Learning and Statistics | Effective Writing
+  Python      Anaconda Installation Installation of Anaconda, an open-source and the most popular platform of choice for Python in data science   Getting Started with Jupyter Notebooks Installation of Jupyter Notebook, a web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text   Python Cheatsheet Cheatsheet of basic and advanced Python syntax   Python for Non-Programmers Tutorials for non-programmers to get started with Python   Programming in Python Introduction to programming in Python for people with little or no previous programming experience   LearnPython.</description>
+    </item>
+    
+    <item>
+      <title>USD MS-ADS Vision</title>
+      <link>http://usd-msads.github.io/vision/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://usd-msads.github.io/vision/</guid>
+      <description>The many additional areas now impacted by data science include: marketing, sales and service, the life sciences, business intelligence, agriculture, mining, oil, aerospace, travel, transportation, food, field service, construction, defense, digital media, education and more. The need for skilled data scientists cuts across nearly all industries, public agencies, and nonprofits, with particularly strong demand and opportunity in such fields as:
+TechnologyFinancial servicesRetailHealthcareTelecomManufacturingCybersecurityGovernment and militaryEnergyAutomotiveOpportunities for data scientists continue to expand rapidly across a broad spectrum of fields.</description>
+    </item>
+    
+    <item>
+      <title>Virtual Internships</title>
+      <link>http://usd-msads.github.io/internships/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://usd-msads.github.io/internships/</guid>
+      <description>asdf</description>
+    </item>
+    
+    <item>
+      <title>Workshops</title>
+      <link>http://usd-msads.github.io/workshops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://usd-msads.github.io/workshops/</guid>
+      <description>asdf</description>
+    </item>
+    
+  </channel>
+</rss>

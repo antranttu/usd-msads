@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on USD MS-ADS</title>
+    <link>http://usd-msads.github.io/blog/</link>
+    <description>Recent content in Blogs on USD MS-ADS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Apr 2018 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="http://usd-msads.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog 3</title>
+      <link>http://usd-msads.github.io/blog/2018-04-17_blog3/</link>
+      <pubDate>Wed, 25 Apr 2018 10:58:08 -0400</pubDate>
+      
+      <guid>http://usd-msads.github.io/blog/2018-04-17_blog3/</guid>
+      <description>asdf</description>
+    </item>
+    
+    <item>
+      <title>Blog 2</title>
+      <link>http://usd-msads.github.io/blog/2018-02-02_blog2/</link>
+      <pubDate>Fri, 02 Feb 2018 10:58:08 -0400</pubDate>
+      
+      <guid>http://usd-msads.github.io/blog/2018-02-02_blog2/</guid>
+      <description>asdf</description>
+    </item>
+    
+    <item>
+      <title>Blog 1</title>
+      <link>http://usd-msads.github.io/blog/2018-01-24_blog1/</link>
+      <pubDate>Wed, 24 Jan 2018 10:58:08 -0400</pubDate>
+      
+      <guid>http://usd-msads.github.io/blog/2018-01-24_blog1/</guid>
+      <description>Citizen Labs works together with our entire community to promote transparency, better understand problems, and support informed decisions.And to be purposeful in choosing the opportunities that may cross our path. We will welcome:- Partnerships with educational organizations- Open Data Policy Engagement- Partnerships to lead citizen engagement &amp; design thinking## How We Win**Engage Our Community:**- Build partnerships with other organizations.- Actively engage a community partner in at least 50% of 2018 Citizen Lab projects.</description>
+    </item>
+    
+  </channel>
+</rss>
